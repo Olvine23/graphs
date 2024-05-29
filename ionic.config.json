@@ -1,0 +1,7 @@
+{
+  "name": "graphApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
